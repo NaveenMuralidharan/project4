@@ -66,3 +66,11 @@ erDiagram
 
 
 #### Technologies Used:
+Backend:
+PostgreSQL
+Python
+Django
+
+Frontend:
+React 
+Javascript
